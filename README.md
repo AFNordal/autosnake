@@ -1,2 +1,2 @@
 # autosnake
-![Demo gif](https://github.com/AFNordal/autosnake/demo.gif)
+![Demo gif](https://github.com/AFNordal/autosnake/blob/main/demo.gif)
