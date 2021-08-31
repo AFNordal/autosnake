@@ -1,2 +1,2 @@
 # autosnake
-![Alt Text](https://github.com/AFNordal/autosnake/demo.gif)
+![Demo gif](https://github.com/AFNordal/autosnake/demo.gif)
